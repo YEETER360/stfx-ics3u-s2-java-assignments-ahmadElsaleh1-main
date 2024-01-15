@@ -1,0 +1,16 @@
+Dolphin
+387
+Shark
+104
+Whale
+14
+Cheetah
+249
+Elephant
+67
+Alligator
+813
+Turtle
+2238
+Seagull
+1481
